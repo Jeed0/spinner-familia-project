@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/spinner-familia-project/static/css/main.a3d1c663.css",
+    "main.js": "/spinner-familia-project/static/js/main.fca3ea8c.js",
+    "static/media/Logo_F.png": "/spinner-familia-project/static/media/Logo_F.e51cb07d70559346c93d.png",
+    "index.html": "/spinner-familia-project/index.html",
+    "main.a3d1c663.css.map": "/spinner-familia-project/static/css/main.a3d1c663.css.map",
+    "main.fca3ea8c.js.map": "/spinner-familia-project/static/js/main.fca3ea8c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3d1c663.css",
+    "static/js/main.fca3ea8c.js"
+  ]
+}
