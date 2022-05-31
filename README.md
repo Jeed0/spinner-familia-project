@@ -1,6 +1,6 @@
 # Spinner pour le projet "Familia!"
 
-Le spinner sous sa forme simplifié en CSS est visible ici :  [Spinner]([https://jeed0.github.io/spinner-familia-project/] "Spinner").
+Le spinner sous sa forme simplifié en CSS est visible ici :  ([https://jeed0.github.io/spinner-familia-project/] "Spinner").
 
 ## Objectif
 
